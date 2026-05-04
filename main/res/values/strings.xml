@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LifeHackApp</string>
+    <string name="life_hack_or_myth">Life Hack or Myth?</string>
+    <string name="test_your_knowledge_of_life_hacks">Test your knowledge of life hacks!</string>
+    <string name="start">Start</string>
+    <string name="question_will_appear_here">Question will appear here</string>
+    <string name="myth_false">Myth (False)</string>
+    <string name="hack_true">Hack (True)</string>
+    <string name="next">Next</string>
+    <string name="your_score_0">Your Score: 0</string>
+    <string name="review_answers">Review Answers</string>
+    <string name="restart_quiz">Restart Quiz</string>
+</resources>
